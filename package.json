@@ -1,6 +1,6 @@
 {
   "name": "does-yarn-pnp-work-with-this-ts-version",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.5.1",
   "private": true,
   "scripts": {
     "build": "tsc --build"
